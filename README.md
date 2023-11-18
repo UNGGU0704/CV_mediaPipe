@@ -22,7 +22,7 @@
 
 손 모양을 검출하는 데에는 웹캠을 통해 실시간으로 탐색합니다. 현재 어떤 손 모양을 탐색하였는지는 좌측 상단에 표시합 니다. 전체적인 GUI는 ***pyqt5***를 활용합니다.
 
-참조 깃 링크 :https://github.com/google/mediapipe 
+> 참조 깃 링크 :https://github.com/google/mediapipe 
 
 ---
 
